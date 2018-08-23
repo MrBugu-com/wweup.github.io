@@ -6,10 +6,6 @@
     <content type="text"><![CDATA[This is My First Blog Artcile,Come On!]]></content>
       <categories>
         <category>前端</category>
-        <category>后台</category>
-        <category>框架</category>
-        <category>数据库</category>
-        <category>架构</category>
       </categories>
       <tags>
         <tag>JAVA</tag>
