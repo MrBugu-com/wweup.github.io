@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.Wang</title>
+  
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://weup.gitee.io/blog/"/>
+  <updated>2018-08-23T10:40:49.710Z</updated>
+  <id>https://weup.gitee.io/blog/</id>
+  
+  <author>
+    <name>Wang Wei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Blog Artcile</title>
+    <link href="https://weup.gitee.io/blog/2018/08/23/My-First-Blog-Artcile/"/>
+    <id>https://weup.gitee.io/blog/2018/08/23/My-First-Blog-Artcile/</id>
+    <published>2018-08-23T09:06:25.000Z</published>
+    <updated>2018-08-23T10:40:49.710Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is My First Blog Artcile,Come On!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is My First Blog Artcile,Come On!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://weup.gitee.io/blog/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JAVA" scheme="https://weup.gitee.io/blog/tags/JAVA/"/>
+    
+      <category term="Python" scheme="https://weup.gitee.io/blog/tags/Python/"/>
+    
+      <category term="Android" scheme="https://weup.gitee.io/blog/tags/Android/"/>
+    
+      <category term="Oracle" scheme="https://weup.gitee.io/blog/tags/Oracle/"/>
+    
+      <category term="MySQL" scheme="https://weup.gitee.io/blog/tags/MySQL/"/>
+    
+      <category term="Spring" scheme="https://weup.gitee.io/blog/tags/Spring/"/>
+    
+      <category term="Struts2" scheme="https://weup.gitee.io/blog/tags/Struts2/"/>
+    
+      <category term="Hibernate" scheme="https://weup.gitee.io/blog/tags/Hibernate/"/>
+    
+      <category term="Spring MVC" scheme="https://weup.gitee.io/blog/tags/Spring-MVC/"/>
+    
+      <category term="Mybatis" scheme="https://weup.gitee.io/blog/tags/Mybatis/"/>
+    
+      <category term="jQuery" scheme="https://weup.gitee.io/blog/tags/jQuery/"/>
+    
+      <category term="Layui" scheme="https://weup.gitee.io/blog/tags/Layui/"/>
+    
+      <category term="Easyui" scheme="https://weup.gitee.io/blog/tags/Easyui/"/>
+    
+      <category term="Node.js" scheme="https://weup.gitee.io/blog/tags/Node-js/"/>
+    
+      <category term="Hexo" scheme="https://weup.gitee.io/blog/tags/Hexo/"/>
+    
+      <category term="Bootstrap" scheme="https://weup.gitee.io/blog/tags/Bootstrap/"/>
+    
+      <category term="Vue" scheme="https://weup.gitee.io/blog/tags/Vue/"/>
+    
+      <category term="React" scheme="https://weup.gitee.io/blog/tags/React/"/>
+    
+      <category term="Angular" scheme="https://weup.gitee.io/blog/tags/Angular/"/>
+    
+      <category term="Spring Boot" scheme="https://weup.gitee.io/blog/tags/Spring-Boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://weup.gitee.io/blog/2018/08/22/hello-world/"/>
+    <id>https://weup.gitee.io/blog/2018/08/22/hello-world/</id>
+    <published>2018-08-22T01:52:25.274Z</published>
+    <updated>2018-08-24T02:05:45.840Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="Hello World" scheme="https://weup.gitee.io/blog/categories/Hello-World/"/>
+    
+    
+  </entry>
+  
+</feed>
