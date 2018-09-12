@@ -5,9 +5,9 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://weup.gitee.io/blog/"/>
+  <link href="https://wweup.github.io/blog/"/>
   <updated>2018-08-23T10:40:49.710Z</updated>
-  <id>https://weup.gitee.io/blog/</id>
+  <id>https://wweup.github.io/blog/</id>
   
   <author>
     <name>Wang Wei</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My First Blog Artcile</title>
-    <link href="https://weup.gitee.io/blog/2018/08/23/My-First-Blog-Artcile/"/>
-    <id>https://weup.gitee.io/blog/2018/08/23/My-First-Blog-Artcile/</id>
+    <link href="https://wweup.github.io/blog/2018/08/23/My-First-Blog-Artcile/"/>
+    <id>https://wweup.github.io/blog/2018/08/23/My-First-Blog-Artcile/</id>
     <published>2018-08-23T09:06:25.000Z</published>
     <updated>2018-08-23T10:40:49.710Z</updated>
     
@@ -35,48 +35,48 @@
     
     </summary>
     
-      <category term="前端" scheme="https://weup.gitee.io/blog/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://wweup.github.io/blog/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="JAVA" scheme="https://weup.gitee.io/blog/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://wweup.github.io/blog/tags/JAVA/"/>
     
-      <category term="Python" scheme="https://weup.gitee.io/blog/tags/Python/"/>
+      <category term="Python" scheme="https://wweup.github.io/blog/tags/Python/"/>
     
-      <category term="Android" scheme="https://weup.gitee.io/blog/tags/Android/"/>
+      <category term="Android" scheme="https://wweup.github.io/blog/tags/Android/"/>
     
-      <category term="Oracle" scheme="https://weup.gitee.io/blog/tags/Oracle/"/>
+      <category term="Oracle" scheme="https://wweup.github.io/blog/tags/Oracle/"/>
     
-      <category term="MySQL" scheme="https://weup.gitee.io/blog/tags/MySQL/"/>
+      <category term="MySQL" scheme="https://wweup.github.io/blog/tags/MySQL/"/>
     
-      <category term="Spring" scheme="https://weup.gitee.io/blog/tags/Spring/"/>
+      <category term="Spring" scheme="https://wweup.github.io/blog/tags/Spring/"/>
     
-      <category term="Struts2" scheme="https://weup.gitee.io/blog/tags/Struts2/"/>
+      <category term="Struts2" scheme="https://wweup.github.io/blog/tags/Struts2/"/>
     
-      <category term="Hibernate" scheme="https://weup.gitee.io/blog/tags/Hibernate/"/>
+      <category term="Hibernate" scheme="https://wweup.github.io/blog/tags/Hibernate/"/>
     
-      <category term="Spring MVC" scheme="https://weup.gitee.io/blog/tags/Spring-MVC/"/>
+      <category term="Spring MVC" scheme="https://wweup.github.io/blog/tags/Spring-MVC/"/>
     
-      <category term="Mybatis" scheme="https://weup.gitee.io/blog/tags/Mybatis/"/>
+      <category term="Mybatis" scheme="https://wweup.github.io/blog/tags/Mybatis/"/>
     
-      <category term="jQuery" scheme="https://weup.gitee.io/blog/tags/jQuery/"/>
+      <category term="jQuery" scheme="https://wweup.github.io/blog/tags/jQuery/"/>
     
-      <category term="Layui" scheme="https://weup.gitee.io/blog/tags/Layui/"/>
+      <category term="Layui" scheme="https://wweup.github.io/blog/tags/Layui/"/>
     
-      <category term="Easyui" scheme="https://weup.gitee.io/blog/tags/Easyui/"/>
+      <category term="Easyui" scheme="https://wweup.github.io/blog/tags/Easyui/"/>
     
-      <category term="Node.js" scheme="https://weup.gitee.io/blog/tags/Node-js/"/>
+      <category term="Node.js" scheme="https://wweup.github.io/blog/tags/Node-js/"/>
     
-      <category term="Hexo" scheme="https://weup.gitee.io/blog/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://wweup.github.io/blog/tags/Hexo/"/>
     
-      <category term="Bootstrap" scheme="https://weup.gitee.io/blog/tags/Bootstrap/"/>
+      <category term="Bootstrap" scheme="https://wweup.github.io/blog/tags/Bootstrap/"/>
     
-      <category term="Vue" scheme="https://weup.gitee.io/blog/tags/Vue/"/>
+      <category term="Vue" scheme="https://wweup.github.io/blog/tags/Vue/"/>
     
-      <category term="React" scheme="https://weup.gitee.io/blog/tags/React/"/>
+      <category term="React" scheme="https://wweup.github.io/blog/tags/React/"/>
     
-      <category term="Angular" scheme="https://weup.gitee.io/blog/tags/Angular/"/>
+      <category term="Angular" scheme="https://wweup.github.io/blog/tags/Angular/"/>
     
-      <category term="Spring Boot" scheme="https://weup.gitee.io/blog/tags/Spring-Boot/"/>
+      <category term="Spring Boot" scheme="https://wweup.github.io/blog/tags/Spring-Boot/"/>
     
   </entry>
   
